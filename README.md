@@ -1,5 +1,6 @@
 # MyContarct2
 #ARRAYS IN SOLIDITY
+
 pragma solidity ^0.6.0;
 
 contract MyContract2 {
